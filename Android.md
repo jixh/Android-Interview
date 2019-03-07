@@ -56,7 +56,6 @@ Fragment 传值给 Fragment：一个 Fragment 通过 Activity 获取到另外一
 34. 为什么不能在子线程更新 UI？
 35. ListView 图片加载错乱的原理和解决方案？
 https://blog.csdn.net/guolin_blog/article/details/45586553
-
 36. 对 RecycleView 的了解？
 https://www.jianshu.com/p/4f9591291365
 37. Recycleview 和 ListView 的区别？
@@ -72,21 +71,29 @@ https://blog.csdn.net/u014398480/article/details/79827949
 1. <span id="android_advance_1">画出 Android 的大体架构图</span>
 
    ![](https://i.loli.net/2018/11/04/5bde5e25b0aa9.png)
-
+    
+    https://www.cnblogs.com/xiaoluo501395377/p/3389411.html
+    
 2. 低版本 SDK 如何使用高版本 API？
-https://cloud.tencent.com/developer/article/1332818
+
+    https://cloud.tencent.com/developer/article/1332818
+    
 3. AsyncTask 如何使用?
 
 4. AsyncTask 机制、原理及不足？
-https://blog.csdn.net/google_huchun/article/details/65630850
+
+   https://blog.csdn.net/google_huchun/article/details/65630850
+
 5. 如果在 onStop() 的时候做了网络请求，onResume() 的时候怎么恢复？
-恢复的是网络请求暂停后恢复？还是页面更新？
-stop的时候请求被暂停，onstart的时候检测重新恢复请求即可
-如果是恢复页面请求后的页面数据，分两种，
-1 activity被销毁，那么使用saveInstanceState存储数据，onRestoreInstanceState()恢复数据，
-2，没有被销毁，那就不需要恢复
+
+   恢复是指网络请求暂停后恢复？还是页面更新？
+   stop的时候请求被暂停，onstart的时候检测重新恢复请求即可
+   如果是恢复页`面请求后的页面数据，分两种，
+   1 activity被销毁，那么使用saveInstanceState存储数据，onRestoreInstanceState()恢复数据，
+   2，没有被销毁，那就不需要恢复
 
 6. Handler 机制和底层实现？
+https://www.cnblogs.com/cheneasternsun/p/5467115.html
 
 7. Handler、Thread、HandlerThread 区别？
 
