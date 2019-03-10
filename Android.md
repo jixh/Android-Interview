@@ -144,6 +144,7 @@ https://www.cnblogs.com/cheneasternsun/p/5467115.html
 30. EventBus 实现原理？
 
 31. ButterKnife 实现原理？
+https://www.jianshu.com/p/d9516884dbd4
 
 32. Volley 实现原理？
 
@@ -154,13 +155,14 @@ https://www.cnblogs.com/cheneasternsun/p/5467115.html
 35. SQLite 数据库升级，数据迁移问题？
 
 36. 数据库框架对比和源码分析？
+https://www.jianshu.com/p/8287873d97cd
 
 37. CAS介绍，OAuth 授权机制？
 
 38. 谈谈你对安卓签名的理解
 
 39. App 是如何沙箱化，为什么要这么做？
-
+https://blog.csdn.net/ljheee/article/details/53191397
 ## 混合开发
 
 1. 混合开发的方式？各自优缺点和使用场景？
