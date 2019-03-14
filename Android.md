@@ -44,16 +44,37 @@ Fragment 传值给 Fragment：一个 Fragment 通过 Activity 获取到另外一
 - 优先级动态广播的优先级比静态广播高
 
 24. AlertDialog、popupWindow、Activity 之间的区别？
+https://blog.csdn.net/wenxustqiang/article/details/79758165
+
 25. Application 和 Activity 的 Context 之间的区别？
+https://blog.csdn.net/zx_android/article/details/79483748
+
 26. Android 属性动画特性？
+https://www.jianshu.com/p/2412d00a0ce4
+
 27. LinearLayout、RelativeLayout、FrameLayout 的特性对比及使用场景？
+https://www.jianshu.com/p/b9bd08ffe921
+
+https://blog.csdn.net/hejjunlin/article/details/51159419
+
 28. 对 SurfaceView 的了解？
+https://www.cnblogs.com/zhangyingai/p/7087371.html
+
 29. Serializable 和 Parcelable 的区别？
+
 30. Android 中数据存储方式有哪些？
+
+
 31. 屏幕适配的处理技巧都有哪些?
 32. Android 各个版本 API 的区别？
 33. 动态权限适配方案，权限组的概念？
+https://blog.csdn.net/cui130/article/details/80775887
+https://blog.csdn.net/weixin_38261570/article/details/81046352
+
 34. 为什么不能在子线程更新 UI？
+https://blog.csdn.net/qq_34219826/article/details/73526686
+https://blog.csdn.net/hfut_why/article/details/79673099
+
 35. ListView 图片加载错乱的原理和解决方案？
 https://blog.csdn.net/guolin_blog/article/details/45586553
 36. 对 RecycleView 的了解？
@@ -98,6 +119,7 @@ https://www.cnblogs.com/cheneasternsun/p/5467115.html
 7. Handler、Thread、HandlerThread 区别？
 
 8. ThreadLocal 原理、实现及如何保证 Local 属性？
+https://blog.csdn.net/sonny543/article/details/51336457
 
 9. 自定义 View 的流程？如何机型适配？
 
@@ -118,8 +140,10 @@ https://www.cnblogs.com/cheneasternsun/p/5467115.html
 17. 进程和 Application 的生命周期的关系？
 
 18. SpareArray 的实现原理？
+https://blog.csdn.net/woshizisezise/article/details/79361458
 
 19. SharedPreferences 的实现眼里？是否进程同步？如何做到同步？
+https://www.jianshu.com/p/8eb2147c328b
 
 20. ContentProvider 是如何实现数据共享的？
 
@@ -134,10 +158,12 @@ https://www.cnblogs.com/cheneasternsun/p/5467115.html
 25. Android 中开启摄像头的主要流程？
 
 26. 对 Bitmap 对象的了解？
+https://blog.csdn.net/jwq2011/article/details/52278248
 
 27. 图片加载原理？
 
 28. 图片压缩原理？
+https://www.jianshu.com/p/5ad19825a3d0
 
 29. 图片框架实现原理？LRUCache 原理？
 
